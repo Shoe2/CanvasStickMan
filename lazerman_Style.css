@@ -1,0 +1,17 @@
+canvas {
+border: 1px solid #000000;
+position: absolute; 
+left: 0; 
+top: 0; 
+border: none;
+
+}
+.gameCanvas {
+    
+    z-index: 1;
+    }
+.imageDiv {
+    height:700px;
+    width:1000px;
+    overflow: hidden;
+    }
